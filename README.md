@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Shiyad CM</h1>
-<h3 align="center">A passionate software engineer currently working at Infosys as a System Engineer since 2021. I specialize in full-stack development and have a strong commitment to creating innovative technology solutions to enhance people's lives.</h3>
+<h3 align="center">A passionate software engineer currently working at Infosys as a Senior System Engineer since 2021. I specialize in full-stack development and have a strong commitment to creating innovative technology solutions to enhance people's lives.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiyadbava" alt="shiyadbava" /></a> </p>
 
-- 🔭 I’m currently working as **System Engineer at Infosys**
+- 🔭 I’m currently working as **Senior System Engineer at Infosys**
 
 - 📫 How to reach me **muhammedshiyadcm80@gmail.com**
 
